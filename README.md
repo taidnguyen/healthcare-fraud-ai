@@ -9,6 +9,8 @@ This project uses a neural network to detect fraud in Medicare following paper b
 
 * LEIE Label Data: https://oig.hhs.gov/exclusions/exclusions_list.asp
 
+* Paper: https://www.researchgate.net/publication/332165523_Survey_on_deep_learning_with_class_imbalance
+
 ## Authors
 
 **Tai Nguyen** - 2019
