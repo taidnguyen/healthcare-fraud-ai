@@ -12,3 +12,4 @@ class SimpleNet(torch.nn.Module):
     def forward(self, predictors):
         hidden = F.relu((self.fc1(predictors)))
         return self.fc2(hidden)
+ 
