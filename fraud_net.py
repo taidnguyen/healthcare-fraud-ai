@@ -32,7 +32,7 @@ def main():
     consH.setLevel(logging.DEBUG)
     log.addHandler(consH)
 
-    # Parse command line
+    # Parse command lines
     parser = argparse.ArgumentParser()
     parser.add_argument('--data-path', type=str,
                         help='Path to csv with data file.')
