@@ -5,7 +5,7 @@ from torch.utils.data import Dataset
 
 
 class FraudDataset(Dataset):
-    """CMS and LEIE combined dataset."""
+    """Import CMS and LEIE combined dataset."""
 
     def __init__(self, csv_file, split, split_percent, batch_size, batchseed=0):
         """
