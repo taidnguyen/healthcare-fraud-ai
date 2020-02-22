@@ -1,0 +1,5 @@
+.DS_Store
+**/CMSData
+**/LEIEData
+**/myvenv
+.ipynb_checkpoints/
