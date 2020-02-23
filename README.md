@@ -10,9 +10,9 @@ This project uses a neural network to detect fraud in Medicare following paper b
 * LEIE Label Data: https://oig.hhs.gov/exclusions/exclusions_list.asp
 
 * Paper:
- * Bauder & Khoshgoftaar (2018): https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiqkuzq--bnAhWQmeAKHXxHDPAQFjABegQIAxAB&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FFLAIRS%2FFLAIRS18%2Fpaper%2Fdownload%2F17617%2F16814&usg=AOvVaw2FyoQRNVI-j_xmGqktZHr_
+ 1. Bauder & Khoshgoftaar (2018): https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiqkuzq--bnAhWQmeAKHXxHDPAQFjABegQIAxAB&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FFLAIRS%2FFLAIRS18%2Fpaper%2Fdownload%2F17617%2F16814&usg=AOvVaw2FyoQRNVI-j_xmGqktZHr_
  
- * Johnson & Khoshgoftaar (2019): https://www.researchgate.net/publication/334555225_Medicare_fraud_detection_using_neural_networks
+ 2. Johnson & Khoshgoftaar (2019): https://www.researchgate.net/publication/334555225_Medicare_fraud_detection_using_neural_networks
 
 ## Authors
 
