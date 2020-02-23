@@ -2,7 +2,7 @@
 
 ![Screen Shot 2020-01-31 at 9 59 34 PM](https://user-images.githubusercontent.com/16988147/73585961-09882080-4475-11ea-8e5d-b8d8ae2a8b17.png)
 
-This project uses a neural network to detect fraud in Medicare following paper by Johnson and Khoshgoftaar (2019).
+This project uses a neural network to detect fraudulent physicians in Medicare following paper by Johnson and Khoshgoftaar (2019). Initial steps involve obtaining, cleaning data, and trying different machine learning techniques to understand what can be done.
 
 ## Sources
 * CMS Data: https://www.cms.gov/newsroom/data
