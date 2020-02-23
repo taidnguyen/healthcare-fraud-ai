@@ -16,4 +16,4 @@ This project uses a neural network to detect fraud in Medicare following paper b
 
 ## Authors
 
-**Tai Nguyen** - 2019
+**Tai Nguyen** - 2020
